@@ -16,10 +16,10 @@ The goal is to evaluate whether the “unofficial end of summer” has shifted l
 
 ### Example Plots
 Raw temperatures:  
-![Raw Timeseries](results/Raw Temperature Timeseries.png)  
+![Raw Timeseries](results/Raw%20Temperature%20Timeseries.png)  
 
-Exponential smoothing (Holt-Winters):  
-![Smoothed Temperatures](results/Holt-Winters Filtering (Observed vs Fitted).png)  
+Exponential smoothing (Holt-Winters, observed vs fitted):  
+![Smoothed Temperatures](results/Holt-Winters%20Filtering%20(Observed%20vs%20Fitted).png)   
 
 ## 📚 Course Context
 Completed as part of **ISYE 6501: Intro to Analytics Modeling @ Georgia Tech**  
